@@ -1,0 +1,14 @@
+{
+    "side_len": 3,
+    "players_count": 2,
+    "players_is_ai": [
+        false,
+        true
+    ],
+    "signs": [
+        "X",
+        "O",
+        "T",
+        "A"
+    ]
+}
